@@ -1,0 +1,20 @@
+h1 {
+  font-family: 'Pacifico', cursive;
+  color: #000000;
+}
+
+ol {
+  list-style-type: armenian;
+  font-family: 'Pacifico', cursive;
+  color: #ffffff;
+  background-color: rgba(102, 204, 255, 0.5);
+}
+
+img {
+  border-radius: 20%;
+}
+
+body {
+  background-image: url(background.jpg);
+  background-size: 100% 800px;
+}
